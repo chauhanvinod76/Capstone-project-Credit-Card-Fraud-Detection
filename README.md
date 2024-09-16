@@ -6,7 +6,7 @@
 
 ![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
 
-[Link to dataset](https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv)
+[Link to dataset]([(https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)]])
 
 Description of dataset
 
