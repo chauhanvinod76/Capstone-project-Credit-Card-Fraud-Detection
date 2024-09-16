@@ -1,7 +1,7 @@
-# Capstone-project-Credit-Card-Fraud-Detection
+# Capstone-Project-Credit-Card-Fraud-Detection
 
 
-### An analysis of snake-eating squirrels in Peru in 1988
+### Credit-Card-Fraud-Detection
 
 
 ![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
