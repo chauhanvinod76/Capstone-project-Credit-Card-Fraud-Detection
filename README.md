@@ -1,6 +1,6 @@
 # Capstone-Project 1
 
-## _Credit-Card-Fraud-Detection_
+## Credit-Card-Fraud-Detection
 #
 
 
