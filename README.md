@@ -6,7 +6,7 @@
 ![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
 
 
-![Screenshot of dashboard](https://imgur.com/YDIQUyN)(https://imgur.com/UJ8MVRE)
+![Screenshot of dashboard]((https://i.imgur.com/YDIQUyN.png?)(https://i.imgur.com/UJ8MVRE.png?))
 
 
 Description of dataset
