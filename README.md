@@ -1,4 +1,4 @@
-# Capstone-Project 1
+# Capstone-Machine Learning Project 1
 
 ## Credit-Card-Fraud-Detection
 
