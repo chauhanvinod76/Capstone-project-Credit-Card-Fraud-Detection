@@ -4,7 +4,7 @@
 ### Credit-Card-Fraud-Detection
 
 
-![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
+![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png(https://imgur.com/YDIQUyN))
 
 [Link to dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
 
