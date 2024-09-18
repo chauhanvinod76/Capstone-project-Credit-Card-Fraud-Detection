@@ -3,6 +3,7 @@
 ## Credit-Card-Fraud-Detection
 
 ![Screenshot of dashboard](https://i.imgur.com/NzvDPCi.png)
+!(https://i.imgur.com/kFdBJIA.png)
 
 ### Description of dataset
 
