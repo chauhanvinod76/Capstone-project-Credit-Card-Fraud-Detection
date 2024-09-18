@@ -15,7 +15,10 @@ The dataset includes credit card transactions by European cardholders in Septemb
  * The target variable 'Class' indicates whether a transaction is fraudulent (1) or not (0)."
 
 ### Conclusion
-The final model successfully detected fraudulent transactions with high accuracy. Importance of addressing data imbalance and rigorous model evaluation. Integrating real-time data streaming, testing additional models, and exploring deep learning techniques. XGBoost is the model selected for this dataset based on recall rather than preciseion.
+* The final model successfully detected fraudulent transactions with high accuracy. 
+* Importance of addressing data imbalance and rigorous model evaluation. 
+* Integrating real-time data streaming, testing additional models, and exploring deep learning techniques. 
+* XGBoost is the model selected for this dataset based on recall rather than preciseion.
 
 <details>
 <summary><b>Foldable hidden section</b></summary>
