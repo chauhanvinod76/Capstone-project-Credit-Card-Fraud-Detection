@@ -19,6 +19,10 @@ The dataset includes credit card transactions by European cardholders in Septemb
 * Integrating real-time data streaming, testing additional models, and exploring deep learning techniques. 
 * XGBoost is the model selected for this dataset based on recall rather than preciseion.
 
+#### Connect with Me!
+Send me a DM on [Linkedin!](https://www.linkedin.com/in/chauhanvinod/)
+
+
 <details>
 <summary><b>Foldable hidden section</b></summary>
 
