@@ -1,12 +1,10 @@
 # Capstone-Machine Learning Project 
 
 ## Credit-Card-Fraud-Detection
-
 ![Screenshot of dashboard](https://i.imgur.com/NzvDPCi.png)
 ![Screenshot of dashboard](https://i.imgur.com/3S8yEP9.png)
 
 ### Description of dataset
-
 The dataset includes credit card transactions by European cardholders in September 2013, focusing on transactions over two days.
 
 #### General Observations
